@@ -37,7 +37,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <title>revouninstallerfree (Install)</title>
     <authors>VS REVO GROUP</authors>
     <!-- projectUrl is required for the community feed -->
-    <projectUrl>https://github.com/bdt1995/revouninstallerfree-chocopackage</projectUrl>
+    <projectUrl>https://github.com/bdt1995/revouninstallerfree-chocopackage/blob/master/revouninstallerfree.2.0.4-beta.nupkg</projectUrl>
     <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/revouninstallerfree.png</iconUrl>-->
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
